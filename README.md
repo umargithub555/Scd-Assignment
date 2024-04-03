@@ -16,3 +16,5 @@
 ![git add . commit ](./Pics/image-5.PNG)
 
 ![git remote](./Pics/image-6.PNG)
+
+![git push](./Pics/image-7.PNG)
