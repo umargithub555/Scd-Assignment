@@ -5,9 +5,14 @@
 **Assignment-02**
 
 
-!(git init)[image-1.png]
-!(git status)[image-2.png]
-!(git add .)[image-3.png]
-!(git commit)[image-4.png]
-!((2) git add . then git commit)[image-5.png]
-!(git remote add origin https://github.com/umargithub555/Scd-Assignment.git)[image-6.png]
+![git init](./pics/image-1.png)
+
+![git status](./pics/image-2.png)
+
+![git add .](./pics/image-3.png)
+
+![git commit](./pics/image-4.png)
+
+![git add . commit ](./pics/image-5.png)
+
+![git remote](./pics/image-6.png)
