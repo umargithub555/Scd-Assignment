@@ -7,7 +7,7 @@
 
 ![git init](./pics/image-1.png)
 
-![git status](./pics/image-2.png)
+![git status](./pics/image-2.PNG)
 
 ![git add .](./pics/image-3.png)
 
